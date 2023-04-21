@@ -54,7 +54,7 @@ def config(code, _webhook):
         "MobFarmType": "Default",
         "statSwordMastery": true,
         "teleportSpeed": 20,
-        "autoKick": true,
+        "autoKick": false,
         "LevelFarmMode": "Katana",
         "AutoReconnect": true,
         "PingMultiplierValue":9.01,
