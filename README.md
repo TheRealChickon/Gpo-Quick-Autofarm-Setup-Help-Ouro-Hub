@@ -51,8 +51,8 @@ That means that the script will save the PrivateServerCode1 to the TestAccount1 
 If you cannot understand this. ***Read* it again**.
 
 
-Made by TheRealChicken#5230
-TheRealChick on V3rmillion.net
+Made by TheRealChicken <br>
+TheRealChick on v3rm
 
 
 - *For educational purposes only.*
