@@ -1,8 +1,8 @@
 # GpoOuroAutoJsonFormat
 
-Read this throughly:
+Read this thoroughly:
 
-Create two files in the same folder as the executable file.
+Run AutoFarm.py once to generate the following files required, if it does not create them for some Reason create them yourself manually. <br>
 
     1. AccountNames.txt
     2. PrivateServers.txt
