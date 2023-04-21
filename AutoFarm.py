@@ -3,7 +3,7 @@ names = []
 ps_codes = []
 loaded_data = {}
 file_name_end = "_settings.json"
-webhook = str(input("Enter your webhook: "))
+webhook = str(input("Enter your webhook | Press Enter to skip: "))
 
 
 def get_codes():
@@ -56,7 +56,9 @@ def config(code, _webhook):
         "teleportSpeed": 20,
         "autoKick": true,
         "LevelFarmMode": "Katana",
-        "AutoReconnect": true
+        "AutoReconnect": true,
+        "PingMultiplierValue":9.01,
+        "itemNotifier":true
       }
     }
     ''' % (code, _webhook)
