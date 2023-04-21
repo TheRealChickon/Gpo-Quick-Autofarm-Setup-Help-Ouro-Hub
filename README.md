@@ -44,7 +44,7 @@ The line the account is in the file corresponds to his private server assigned.
 
 **Example:** <br>
     
-    TestAccount1              | AccountNames.txt   > Line 1
+    TestAccount1       | AccountNames.txt   > Line 1
     PrivateServerCode1 | PrivateServers.txt > Line 1
     
 That means that the script will save the PrivateServerCode1 to the TestAccount1 <br>
