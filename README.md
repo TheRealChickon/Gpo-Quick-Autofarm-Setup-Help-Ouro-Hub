@@ -11,12 +11,12 @@ How to use:  <br>
     1. Write your Roblox accounts names in the ***AccountNames.txt*** file. <br>
       &nbsp; &nbsp; &nbsp; &nbsp;  > Every line should only contain a single Account 
     
-    Example:
+**Example:**
 
-    AccountName1
-    AccountName2
-    AccountName3
-    AccountName4
+    TestAccount1
+    TestAccount2
+    TestAccount3
+    TestAccount4
 
 How to use:  <br>
     2. Write your Private Server Codes in the ***PrivateServers.txt*** file. <br>
@@ -24,7 +24,7 @@ How to use:  <br>
     
 Note: If you wish to use a private server on multiple accounts at once you can just paste the same code on multiple lines in the file.
 
-    Example:
+**Example:**
 
     PrivateServerCode1
     PrivateServerCode2
@@ -38,10 +38,21 @@ Note: If you wish to use a private server on multiple accounts at once you can j
 - Change the ***config_template*** variable in AutoFarm.py to your desired format.
 - It should be fairly easy to modify this for more customizability as long as you have basic Python knowledge, if you don't -> You're fucked. Try asking someone who is not me because I have no Plans of updating this as I made this for me rq in the first place.
 
-### IMPORTANT NOTE
+### IMPORTANT INFO
 
-The line the account is in corresponds to his private server assigned.
+The line the account is in the file corresponds to his private server assigned.
 
 **Example:** <br>
-**Test1** -> *line 1* in AccountNames.txt <br>
-Then his private server will be the one in *line 1* in PrivateServers.txt -> **PrivateServerCode1**
+    
+    TestAccount1              | AccountNames.txt   > Line 1
+    PrivateServerCode1 | PrivateServers.txt > Line 1
+    
+That means that the script will save the PrivateServerCode1 to the TestAccount1 <br>
+If you cannot understand this. ***Read* it again**.
+
+
+Made by TheRealChicken#5230
+TheRealChick on V3rmillion.net
+
+
+- *For educational purposes only.*
