@@ -58,7 +58,10 @@ def config(code, _webhook):
         "LevelFarmMode": "Katana",
         "AutoReconnect": true,
         "PingMultiplierValue":9.01,
-        "itemNotifier":true
+        "itemNotifier":true,
+        "fullBright":true,
+        "BeAbleToSwim":true,
+        "noFallDamage":true
       }
     }
     ''' % (code, _webhook)
