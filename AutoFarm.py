@@ -3,8 +3,7 @@ names = []
 ps_codes = []
 loaded_data = {}
 file_name_end = "_settings.json"
-webhook = "https://discord.com/api/webhooks/1069012888028721283/" \
-          "2aNLdjWTxv5GgkhUMshEYhpiz173W4_7QM7Y8IGqXKjy0XKDK1U0Hp1nQVDA1Kh6v36b"
+webhook = str(input("Enter your webhook: "))
 
 
 def get_codes():
