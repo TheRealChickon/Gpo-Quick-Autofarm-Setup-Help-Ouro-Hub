@@ -8,6 +8,7 @@ webhook = str(input("Enter your webhook | Press Enter to skip: "))
 open("PrivateServers.txt", "a").close()
 open("AccountNames.txt", "a").close()
 
+
 def get_codes():
     with open("PrivateServers.txt") as f:
         lines = f.readlines()
