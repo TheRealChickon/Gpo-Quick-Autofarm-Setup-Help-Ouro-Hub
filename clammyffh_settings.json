@@ -1,0 +1,26 @@
+
+    {
+      "648454481": {
+        "TimeKick": "15",
+        "SecureMode": true,
+        "itemNotifier": true,
+        "PSCode": "larLEEsARJ",
+        "autoJoinPS": true,
+        "showFruits": true,
+        "AutoAcceptParty": false,
+        "LevelFarm": true,
+        "WebHook": "https://discord.com/api/webhooks/1099045552131420160/rB8aKDP83VOsGfmfQmz5vPzFgeSrnc2KrXOAmaswN9jfjQZu0S10Ra7AQ90UJD9xCl6P",
+        "MobFarmType": "Default",
+        "statSwordMastery": true,
+        "teleportSpeed": 20,
+        "autoKick": false,
+        "LevelFarmMode": "Katana",
+        "AutoReconnect": true,
+        "PingMultiplierValue":9.01,
+        "itemNotifier":true,
+        "fullBright":true,
+        "BeAbleToSwim":true,
+        "noFallDamage":true
+      }
+    }
+    
