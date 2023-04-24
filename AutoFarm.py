@@ -56,14 +56,15 @@ def config(code, _webhook):
         "WebHook": "%s",
         "MobFarmType": "Default",
         "statSwordMastery": true,
-        "teleportSpeed": 20,
+        "teleportSpeed": 15,
         "autoKick": false,
         "LevelFarmMode": "Katana",
         "AutoReconnect": true,
-        "PingMultiplierValue":9.01,
+        "PingMultiplierValue":8,
         "fullBright":true,
         "BeAbleToSwim":true,
-        "noFallDamage":true
+        "noFallDamage":true,
+        "PingMultiplier": true
       }
     }
     ''' % (code, _webhook)
